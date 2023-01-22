@@ -1,1 +1,3 @@
 # Single-Image-Super-Resolution
+
+In Single Image Super Resolution we have Super-   Resolution Generative Adversarial Network (SRGAN) that is capable of generating realistic texture. This is especially useful for the enhancement of an image by working on specific characters of an object, ex face. In this paper, we describe deep learning of understanding the machine processing for upscaling a low image resolution by 25-30PSNR (Peak Signal to Noise Ratio). The underlying model is based on the SRGAN and the enhanced SRGAN with its three key components network architecture, adversarial loss, and perceptual loss.
